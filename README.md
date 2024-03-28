@@ -17,7 +17,7 @@ Use the arrow keys to move the player character left and right to avoid collidin
 
 ## Author
 
-This Space Invaders game is created by Jose Sanchez-Capo.
+This ~~Space~~  Node Invaders game is created by Jose Sanchez-Capo.
 
 ## Note
 
