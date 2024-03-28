@@ -1,4 +1,4 @@
-# Fun ~~Space~~ Node Invaders Game (Pure Node.js)
+# ~~Space~~ Node Invaders Game (Pure Node.js)
 
 
 This is a simple Space Invaders game implemented in Node.js, designed to be played in the terminal. It allows the player to control a character to avoid collision with descending invaders.
